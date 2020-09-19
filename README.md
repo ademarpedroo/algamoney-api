@@ -1,2 +1,0 @@
-# algamoney-api
-algamoney-api
